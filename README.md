@@ -1,148 +1,159 @@
 <div align="center">
 
-# 👨‍💻 Divya Pratap Singh
+# Divya Pratap Singh
 
-### Backend Systems Architect | Distributed Systems Builder | 10M+ Daily Events Scale
+**Backend Engineer · Java · Spring Boot · Spring Security · India**
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyapratapdev&style=flat-square&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-pratap-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyapratapdev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divya210205@gmail.com)
 
----
-
-### 🚀 I Build Systems That Scale
-
-Not frameworks. Not tutorials. **Production systems** handling millions of transactions. Microservices, event-driven architectures, distributed databases—the hard stuff that actually matters in production.
-
-Currently architecting backend systems at **enterprise scale** with deep expertise in Java/Spring Boot, Node.js, Python, and everything in between.
+![Profile Views](https://komarev.com/ghpvc/?username=divyapratapdev&color=6DB33F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 💡 What I Do
+## About
 
-Building production-grade backend systems is my craft. I've spent the last few years solving problems most engineers only read about:
+I build **production-grade backend systems** using Java and Spring Boot.
 
-- **Scaled systems from 1K to 10M+ daily events** without breaking a sweat
-- **Reduced latency from 200ms to 45ms** through intelligent caching and optimization
-- **Dropped cascading failures by 94%** with proper resilience patterns
-- **Handled 1M requests/second** on a single cluster
-- **Built event-driven architectures** that handle eventual consistency elegantly
+My focus is on secure REST APIs, clean architecture, and scalable systems that work under real-world traffic. I care deeply about understanding what happens under the annotations — DispatcherServlet, bean lifecycle, filter chains, transaction boundaries — not just the surface.
 
-The dirty secret? It's not magic. It's understanding trade-offs, making the hard architectural decisions early, and obsessing over production stability.
-
----
-
-## 🔧 Technology Arsenal
-
-<table>
-<tr>
-<td align="center" width="20%">
-<b>Languages</b><br>
-<code>Java 17+</code><br><code>JavaScript/Node.js</code><br><code>Python</code><br><code>SQL/NoSQL</code>
-</td>
-<td align="center" width="20%">
-<b>Frameworks</b><br>
-<code>Spring Boot 3.x</code><br><code>Express.js</code><br><code>Flask</code><br><code>Spring Cloud</code>
-</td>
-<td align="center" width="20%">
-<b>Databases</b><br>
-<code>PostgreSQL</code><br><code>MongoDB</code><br><code>Redis</code><br><code>MySQL</code>
-</td>
-<td align="center" width="20%">
-<b>Infrastructure</b><br>
-<code>Docker</code><br><code>Kubernetes</code><br><code>AWS/GCP</code><br><code>CI/CD Pipelines</code>
-</td>
-<td align="center" width="20%">
-<b>Specialization</b><br>
-<code>Microservices</code><br><code>Kafka Streams</code><br><code>Distributed Tracing</code><br><code>System Design</code>
-</td>
-</tr>
-</table>
+- Currently building: **JWT Auth API with Spring Security 6 + RBAC** → [view project](https://github.com/divyapratapdev/spring-boot-jwt-security)
+- Open source: **PR #67** open on [gothinkster/spring-boot-realworld-example-app](https://github.com/gothinkster/spring-boot-realworld-example-app/pull/67) — fixing incorrect language in README title + outdated Java version
+- Focus: **Spring Boot internals, API security, system design, microservices**
+- Open to: **Backend engineering roles** · India & Remote
 
 ---
 
-## 📊 The Numbers Don't Lie
+## Tech Stack
 
-```
-Systems Designed       ███████████░░░░░░░░  10+ production systems
-Scale Handled          ███████████░░░░░░░░  10M+ daily events
-Latency Optimization   ███████████░░░░░░░░  200ms → 45ms
-Error Rate Reduction   ███████████░░░░░░░░  2.3% → 0.04%
-```
+**Core Backend**
 
-**Real talk:** If I can't explain the architecture in a 15-minute conversation, I've over-engineered it. Simplicity wins.
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
----
+**API & Auth**
 
-## 🎯 Featured Work
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🏆 [Media Platform Backend](https://github.com/divyapratapdev/media-platform-backend)
-Production-scale video streaming infrastructure handling millions of requests. JWT security, cloud storage, microservices-ready. This is what enterprise backend looks like.
+**Database & ORM**
 
-### 🏆 [JournalApp](https://github.com/divyapratapdev/JournalApp)
-Spring Boot mastery: Layered architecture, MongoDB integration, production-grade patterns. Shows how to build APIs that scale from day one.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### 🏆 [Pneumonia Detection AI](https://github.com/divyapratapdev/pneumonia_app)
-Deep learning in production. 94%+ accuracy CNN with clinical-grade preprocessing. Proves I can bridge ML and backend systems.
+**DevOps & Tools**
 
----
-
-## 🧠 Philosophy
-
-> **"Great software isn't measured by how clever it is. It's measured by how reliably it handles failure at 3 AM when you're asleep."**
-
-I believe in:
-- **Simplicity over complexity** (always)
-- **Production readiness from day one** (not as an afterthought)
-- **Metrics over assumptions** (measure everything)
-- **Boring technology** (KISS principle)
-- **Generosity** (sharing what I learn)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📚 What I'm Exploring
+## Flagship Project
 
-Currently diving deep into:
-- **Virtual Threads** for high-concurrency workloads
-- **GraalVM Native Images** for serverless deployments
-- **Spring AI** integration for LLM-powered backends
-- **Distributed consensus algorithms** (Raft, PBFT)
+[![spring-boot-jwt-security](https://github-readme-stats.vercel.app/api/pin/?username=divyapratapdev&repo=spring-boot-jwt-security&theme=default&hide_border=true)](https://github.com/divyapratapdev/spring-boot-jwt-security)
 
-The field moves fast. If you're not learning, you're falling behind.
+**Production-grade Spring Boot 3 + JWT + Spring Security 6 REST API**
+
+> Full layered architecture · RBAC (USER / ADMIN roles) · BCrypt passwords · Refresh token rotation · Docker + Docker Compose · GitHub Actions CI · MySQL
 
 ---
 
-## 🤝 Let's Connect
+## Projects
 
-I'm always interested in:
-- **System design discussions** (the real challenges)
-- **Architectural decisions** (what trade-offs would you make?)
-- **Backend engineering excellence** (raising the bar)
-- **Mentoring** (lifting others up)
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [spring-boot-jwt-security](https://github.com/divyapratapdev/spring-boot-jwt-security) | Java 21, Spring Boot 3, JWT, MySQL, Docker | Production JWT auth API with RBAC |
+| [JournalApp](https://github.com/divyapratapdev/JournalApp) | Java, Spring Boot, MongoDB | REST API with layered architecture, CRUD |
+| [CharityManagementSystem](https://github.com/divyapratapdev/CharityManagementSystem) | Java, HTML, MySQL | Multi-module platform with donor & admin mgmt |
+| [media-platform-backend](https://github.com/divyapratapdev/media-platform-backend) | Node.js, Express, MongoDB, JWT | Video streaming backend with cloud storage |
 
-💬 Open to collaborations, architecture reviews, or just talking shop about backend engineering.
+---
 
-📧 **Email:** divya210205@gmail.com  
-🔗 **LinkedIn:** [Divya Pratap Singh](https://linkedin.com/in/divyapratapdev)
+## Open Source
+
+- **[PR #67](https://github.com/gothinkster/spring-boot-realworld-example-app/pull/67)** — `gothinkster/spring-boot-realworld-example-app` (1.5k ⭐) — Fixed factual error in README title (wrong language: Kotlin → Java) + updated EOL Java 11 requirement to Java 17+
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=divyapratapdev&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=divyapratapdev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divyapratapdev&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapratapdev&layout=compact&theme=dark&hide_border=true&langs_count=6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapratapdev&layout=compact&theme=default&hide_border=true&langs_count=6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyapratapdev&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</picture>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=divyapratapdev&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=divyapratapdev&theme=flat&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyapratapdev/divyapratapdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyapratapdev/divyapratapdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/divyapratapdev/divyapratapdev/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## What I Focus On
+
+| Area | Details |
+|------|----------|
+| Architecture | Spring Boot layered design, MVC, DDD principles |
+| API Security | Spring Security 6, JWT, OAuth2, RBAC |
+| Data Layer | JPA/Hibernate, MySQL, MongoDB, query optimization |
+| DevOps | Docker, Docker Compose, GitHub Actions CI/CD |
+| System Design | Microservices, scalability patterns, REST design |
 
 ---
 
 <div align="center">
 
-### 📈 GitHub Stats
+**Open to backend engineering opportunities · Let's build something reliable**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyapratapdev&theme=dark&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyapratapdev&theme=dark&layout=compact&langs_count=8)
-
-### ⚡ Activity
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyapratapdev&theme=dark)](https://git.io/streak-stats)
-
----
-
-*Building systems that matter. One commit at a time.* 🚀
-
-**Last Updated:** April 2026 | Always Evolving
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-pratap-singh)
 
 </div>
