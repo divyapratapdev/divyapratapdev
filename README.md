@@ -68,11 +68,14 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 
 ---
 
-## 📈 Activity & Open Source
+## 🌍 Open Source Philosophy
 
-- **[PR #67](https://github.com/gothinkster/spring-boot-realworld-example-app/pull/67)** open on `gothinkster/spring-boot-realworld-example-app` (1.5k ⭐) — Architecture cleanup and Java 17 modernization.
+My approach to open source focuses on:
+- **Architecture Modernization:** Upgrading legacy Java 8/11 projects to Spring Boot 3.x and Java 17+.
+- **Security Auditing:** Patching vulnerable transitive dependencies and enforcing JWT best practices.
+- **Documentation Parity:** Ensuring READMEs and API Specs align with the actual source code.
 
-<br>
+*Active contributor across various Spring Boot community repositories.*
 
 <div align="center">
 
