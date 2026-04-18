@@ -9,10 +9,6 @@
 
 <br>
 
-[![Build: DB & Storage](https://github.com/divyapratapdev/JournalApp/actions/workflows/maven.yml/badge.svg)](https://github.com/divyapratapdev/JournalApp/actions)
-[![Build: Auth & Security](https://github.com/divyapratapdev/spring-boot-jwt-security/actions/workflows/maven.yml/badge.svg)](https://github.com/divyapratapdev/spring-boot-jwt-security/actions)
-[![Build: API Engine](https://github.com/divyapratapdev/freelanceflow/actions/workflows/maven.yml/badge.svg)](https://github.com/divyapratapdev/freelanceflow/actions)
-
 </div>
 
 ---
