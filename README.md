@@ -2,13 +2,16 @@
 
 # Divya Pratap Singh
 
-**Backend Engineer · System Architecture · Spring Boot Expert · India**
+**System Architecture · Backend Engineering · Infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyapratapdev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divyapratapdev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divya210205@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=divyapratapdev&color=6DB33F&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
+
+[![Build: DB & Storage](https://github.com/divyapratapdev/JournalApp/actions/workflows/maven.yml/badge.svg)](https://github.com/divyapratapdev/JournalApp/actions)
+[![Build: Auth & Security](https://github.com/divyapratapdev/spring-boot-jwt-security/actions/workflows/maven.yml/badge.svg)](https://github.com/divyapratapdev/spring-boot-jwt-security/actions)
+[![Build: API Engine](https://github.com/divyapratapdev/freelanceflow/actions/workflows/maven.yml/badge.svg)](https://github.com/divyapratapdev/freelanceflow/actions)
 
 </div>
 
@@ -66,16 +69,7 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 🌍 Open Source Philosophy
-
-My approach to open source focuses on:
-- **Architecture Modernization:** Upgrading legacy Java 8/11 projects to Spring Boot 3.x and Java 17+.
-- **Security Auditing:** Patching vulnerable transitive dependencies and enforcing JWT best practices.
-- **Documentation Parity:** Ensuring READMEs and API Specs align with the actual source code.
-
-*Active contributor across various Spring Boot community repositories.*
 
 <div align="center">
 
