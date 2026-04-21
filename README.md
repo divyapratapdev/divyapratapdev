@@ -17,7 +17,7 @@
 
 I architect and build **production-ready backend systems, highly-concurrent APIs, and distributed event-driven microservices** using Java and Spring Boot. 
 
-I focus on what happens *under the hood*—resolving database connection pool starvation, managing Kafka idempotency, stateless JWT security perimeters, and zero-downtime containerized deployments.
+I focus on what happens *under the hood*—resolving database connection pool starvation, managing Kafka idempotency, stateless JWT security perimeters, and zero-downtime containerized deployments[...]
 
 ---
 
@@ -41,7 +41,7 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 
 | System Architecture | Highlights | Status |
 |---------------------|------------|--------|
-| **[Spring Boot JWT Security API](https://github.com/divyapratapdev/spring-boot-jwt-security)** | Java 21, Spring Boot 3, MySQL. Production-grade RBAC, refresh token rotation, BCrypt, Dockerized. | Maintained |
+| **[Spring Boot JWT Security API](https://github.com/divyapratapdev/spring-boot-jwt-security)** | Java 21, Spring Boot 3, MySQL. Production-grade RBAC, refresh token rotation, BCrypt, Dockerized.[...]
 | **[JournalApp Microservice](https://github.com/divyapratapdev/JournalApp)** | Deep-dive into MongoDB document structures vs Relational tradeoffs payload serialization. | Maintained |
 | **[Pneumonia App ML Analysis](https://github.com/divyapratapdev/pneumonia_app)** | Applied ML engineering focusing on Recall/Precision tradeoffs and Class Imbalance mitigation. | Complete |
 
@@ -49,7 +49,7 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 
 <div align="center">
 
-[![spring-boot-jwt-security](https://github-readme-stats.vercel.app/api/pin/?username=divyapratapdev&repo=spring-boot-jwt-security&theme=default&hide_border=true)](https://github.com/divyapratapdev/spring-boot-jwt-security)
+[![spring-boot-jwt-security](https://github-readme-stats.vercel.app/api/pin/?username=divyapratapdev&repo=spring-boot-jwt-security&theme=default&hide_border=true)](https://github.com/divyapratapde[...]
 [![JournalApp](https://github-readme-stats.vercel.app/api/pin/?username=divyapratapdev&repo=JournalApp&theme=default&hide_border=true)](https://github.com/divyapratapdev/JournalApp)
 
 </div>
@@ -83,3 +83,5 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyapratapdev/)
 
 </div>
+
+<!-- GitHub forces re-render trigger -->
