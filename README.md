@@ -41,7 +41,7 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 
 | System Architecture | Highlights | Status |
 |---------------------|------------|--------|
-| **[Spring Boot JWT Security API](https://github.com/divyapratapdev/spring-boot-jwt-security)** | Java 21, Spring Boot 3, MySQL. Production-grade RBAC, refresh token rotation, BCrypt, Dockerized. | Active |
+| **[Spring Boot JWT Security API](https://github.com/divyapratapdev/spring-boot-jwt-security)** | Java 21, Spring Boot 3, MySQL. Production-grade RBAC, refresh token rotation, BCrypt, Dockerized. | Maintained |
 | **[JournalApp Microservice](https://github.com/divyapratapdev/JournalApp)** | Deep-dive into MongoDB document structures vs Relational tradeoffs payload serialization. | Maintained |
 | **[Pneumonia App ML Analysis](https://github.com/divyapratapdev/pneumonia_app)** | Applied ML engineering focusing on Recall/Precision tradeoffs and Class Imbalance mitigation. | Complete |
 
@@ -83,5 +83,3 @@ My flagship backend engine built to mirror industrial SaaS architecture.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyapratapdev/)
 
 </div>
-
-<!-- GitHub forces re-render trigger -->
